@@ -4,7 +4,7 @@
   <!--Device repos--> 
   <project path="device/motorola/sanders" name="mthlma/android_device_motorola_sanders" revision="lineage-16.0" />
   <project path="kernel/motorola/msm8953" name="mthlma/android_kernel_motorola_msm8953" revision="lineage-16.0" />
-  <project path="vendor/motorola" name="mthlma/proprietary_vendor_motorola_sanders_pie" revision="lineage-16.0" />
+  <project path="vendor/motorola/sanders" name="mthlma/proprietary_vendor_motorola_sanders_pie" revision="lineage-16.0" />
 
   <!--Dependencies-->
   <project path="external/bson" name="LineageOS/android_external_bson" />
