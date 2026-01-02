@@ -2,7 +2,7 @@
 <manifest>
 
   <!--Device repos--> 
-  <project path="device/motorola/sanders" name="mthlma/device_motorola_sanders" revision="fix_fpgest" />
+  <project path="device/motorola/sanders" name="mthlma/device_motorola_sanders_old" revision="fix_fpgest" />
   <project path="device/motorola/msm8953-common" name="mthlma/device_motorola_msm8953-common" revision="fix_fpgest" />
   
   <!--Vendor repos-->

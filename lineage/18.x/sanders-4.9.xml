@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--Device repos--> 
+  <project path="device/motorola/sanders" name="mthlma/device_motorola_sanders" revision="11.0" />
+  
+  <!--Vendor repos-->
+  <project path="vendor/motorola/sanders" name="mthlma/vendor_motorola_sanders" revision="11.0" />
+  
+  <!--Kernel repo-->
+  <project path="kernel/motorola/msm8953" name="mthlma/kernel_motorola_msm8953" revision="4.9.337" />
+
+  <!--Dependencies-->
+  <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" />
+  <project path="system/qcom" name="LineageOS/android_system_qcom" />
+
+</manifest>
